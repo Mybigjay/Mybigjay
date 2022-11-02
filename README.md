@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I love Jazz music
-- - 📫 How to reach me: ifenkweblessing@gmail.com
+- 📫 How to reach me: ifenkweblessing@gmail.com
 - Connect with me:
 [linkedin](https://www.linkedin.com/in/blessing-ngozi-56340651/)
 
