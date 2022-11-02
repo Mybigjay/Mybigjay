@@ -1,4 +1,8 @@
 ### Hi there 👋
+ 🔭 I’m currently solving human problems with codes
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on projects
+- ⚡ Fun fact: I love Jazz music
 
 <!--
 **Mybigjay/Mybigjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
