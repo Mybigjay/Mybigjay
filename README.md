@@ -1,8 +1,10 @@
 ### Hi there 👋
  🔭 I’m currently solving human problems with codes
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I love Jazz music
+- - 📫 How to reach me: ifenkweblessing@gmail.com
+[linkedin](https://www.linkedin.com/in/blessing-ngozi-56340651/)
 
 <!--
 **Mybigjay/Mybigjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
