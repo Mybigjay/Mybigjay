@@ -6,6 +6,8 @@
 - 📫 How to reach me: ifenkweblessing@gmail.com
 - Connect with me:
 [linkedin](https://www.linkedin.com/in/blessing-ngozi-56340651/)
+- Languages and Tools:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mybigjay"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mybigjay&show_icons=true"/>
 
