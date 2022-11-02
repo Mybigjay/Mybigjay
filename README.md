@@ -8,9 +8,9 @@
 [linkedin](https://www.linkedin.com/in/blessing-ngozi-56340651/)
 
 - Languages and Tools:
-- 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <br />
