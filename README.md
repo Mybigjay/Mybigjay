@@ -27,9 +27,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mybigjay&layout=compact"/>
-
-          
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mybigjay"/>
 
 
 <!--
