@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
  🔭 I’m currently solving human problems with codes
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning block chain 
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I love Jazz music
 - 📫 How to reach me: ifenkweblessing@gmail.com
